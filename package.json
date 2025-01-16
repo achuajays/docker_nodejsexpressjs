@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "backend_nodejsexpress_js_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achuajays/docker_nodejsexpressjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achuajays/docker_nodejsexpressjs/issues"
+  },
+  "homepage": "https://github.com/achuajays/docker_nodejsexpressjs#readme",
+  "description": ""
+}
